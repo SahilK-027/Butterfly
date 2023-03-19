@@ -1,4 +1,7 @@
-# Butterfly Landing Page
+# 🦋 Butterfly Experience Landing Page
+
+## 🔗 Project Link
+- [Live](https://butterfly-experience.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
