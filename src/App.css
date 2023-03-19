@@ -7,13 +7,14 @@ body,
   width : 100%;
   height : 100%;
   overflow : hidden;
+  background: #121316;
 }
 
 header {
   background-color: transparent;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
@@ -44,4 +45,25 @@ header img {
   width: 42px;
   height: auto;
   pointer-events: none;
+}
+
+h1{
+  font-family: 'Italiana', serif;
+  color: #63fffe;
+  padding-top: 50px;
+  font-size: 60px ;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.8em;
+}
+
+@media (max-width: 985px) {
+  h1{
+    font-size: 25px ;
+  }
 }

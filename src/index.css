@@ -9,6 +9,10 @@
   box-sizing: border-box;
 }
 
+body{
+  background: #121316;
+}
+
 body,
 h1,
 h2,
@@ -21,6 +25,7 @@ dl,
 dd {
   margin: 0;
 }
+
 
 ul[role='list'],
 ol[role='list'] {
