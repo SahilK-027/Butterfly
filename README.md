@@ -1,4 +1,4 @@
-# My Projects Site
+# Butterfly Landing Page
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
