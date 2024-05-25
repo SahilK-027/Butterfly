@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <color attach='background' args={[0x121316]} />
+      <color attach='background' args={[0xffffff]} />
       <ScrollControls pages={1} damping={0.25}>
         <ambientLight intensity={0.2} />
         <spotLight position={[0, 25, 0]} angle={1.3} penumbra={1} castShadow intensity={2} shadow-bias={-0.0001} />
